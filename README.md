@@ -1,18 +1,20 @@
-🎮 Jogo de Adivinhação
-Este é um projeto desenvolvido para exercitar conceitos fundamentais de desenvolvimento web e lógica de algoritmos. O objetivo é adivinhar um número gerado aleatoriamente pelo sistema dentro de um intervalo definido.
+🎯 Jogo da Adivinhação
+Um projeto interativo e visualmente atraente onde o usuário deve descobrir qual número entre 1 e 10 o sistema está pensando. Este projeto demonstra o uso prático de lógica de programação combinada com um design moderno e responsivo.
 
-🧠 O que foi praticado:
-Manipulação de DOM: Uso do JavaScript para alterar o conteúdo da página sem necessidade de recarregamento.
+🚀 Funcionalidades
+Geração Aleatória: O sistema gera um número secreto dinamicamente a cada nova rodada.
 
-Estruturas de Controle: Implementação de condicionais (if/else) para verificar se o chute do usuário está correto, é maior ou menor que o número secreto.
+Feedback em Tempo Real: O usuário recebe orientações sobre seu palpite diretamente na tela.
 
-Tratamento de Eventos: Captura e processamento de interações via teclado e cliques em botões.
+Interface Moderna: Design com fundo em tons pastéis, cartões centralizados e botões estilizados para uma melhor experiência do usuário (UX).
 
-Design Responsivo: Uso de CSS para garantir que o jogo seja jogável em qualquer tamanho de tela.
+🛠️ Tecnologias e Conceitos Aplicados
+HTML5 Semântico: Estrutura organizada para acessibilidade e clareza do código.
 
-🛠️ Como rodar o projeto:
-Faça o download dos arquivos index.html, script.js e style.css.
+CSS3 Avançado: Uso de estilização para criar o efeito de cartão centralizado e cores harmoniosas.
 
-Abra o arquivo index.html em qualquer navegador moderno.
+JavaScript (Lógica de Algoritmos):
 
-Dica técnica: Como vi no seu print que o arquivo de estilo está apenas como style (sem o .css visível), ao subir para o GitHub, certifique-se de que ele termine com .css para que o site reconheça as cores e o layout corretamente!
+Funções: Para processar o chute do usuário ao clicar no botão "Adivinhar".
+
+Manipulação de DOM: Alteração dinâmica dos textos e estados da tela com base no resultado.
